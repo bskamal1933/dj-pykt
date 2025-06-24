@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-=841n95u0g%x$h^zf25#4xop01s-s+$!h&h%h#*uqe4!mq8=vq
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['dj-pykt.onrender.com', 'pykt.in', 'www.pykt.in']
+ALLOWED_HOSTS = ['127.0.0.1', 'dj-pykt.onrender.com', 'pykt.in', 'www.pykt.in']
 
 
 # Application definition
