@@ -33,6 +33,7 @@ var/
 *.pyo
 *.db
 *.sqlite3
+staticfiles/
 
 # Unit test / coverage reports
 htmlcov/
